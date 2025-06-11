@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Hello, I'm David Oh. You can also call me Jeong Won.
 
 >
-I'm a graduate student of <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a>,
+I'm a graduate student of <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo</a>, (formerly <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a>),
 studying for a doctoral degree in Information and Communications Engineering as a member of <a href="https://titech-caras.github.io/index-en.html">CARAS Lab</a>, under the supervision of Prof. Hiroshi Sasaki. My current interest is in Cache Side-Channel Attacks.
 
 >

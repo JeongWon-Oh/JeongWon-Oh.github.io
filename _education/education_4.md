@@ -5,4 +5,4 @@ inline: true
 ---
 
 *Ph.D. student in Information and Communications Engineering*,
-<br>Tokyo Institute of Technology
+<br>Institute of Science Tokyo
